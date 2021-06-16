@@ -1,8 +1,8 @@
 # elonmux
-Custom golang multiplexer
+Custom golang multiplexer(router)
 
 ![alt text](https://miro.medium.com/max/239/1*EvsjfKJSWsCvoOHMfSKvBA.jpeg)
-
+credit : reddit
 
 ## Install 
 `go get -u github.com/sanjeevsiva17/elonmux`
